@@ -1,39 +1,26 @@
-# Tito Myny
+# Hi there, I'm Tito Myny 👋
 
-Official repository of **Tito Myny**, a Belgian independent software developer and creator of **TITO Encryptor** and **Titoware**.
+I’m an independent software developer and builder based in Ghent, Belgium, with a passion for building local system utilities, security software, and exploring system infrastructure. 
 
-## About
-
-This repository contains projects, software, documentation, and development resources created and maintained by Tito Myny.
-
-### Official projects
-
-- **TITO Encryptor** — Encryption and security software for Windows.
-- **Titoware** — Independent software platform by Tito Myny.
-
-## Official Links
-
-- 🌐 Website: https://titoware.com/
-- 💼 LinkedIn: https://www.linkedin.com/in/tito-myny
-- 𝕏 X: https://x.com/Tito_myny
-- 🪟 Microsoft Store: https://apps.microsoft.com/detail/xpfg2dkdszhcln?hl=en-US&gl=US
-
-## Official Identity
-
-The official developer represented by this repository is **Tito Myny**, an independent software developer from Belgium.
-
-**Official LinkedIn profile:**  
-https://www.linkedin.com/in/tito-myny
-
-**Official X profile:**  
-https://x.com/Tito_myny
-
-Other social-media profiles, podcasts, YouTube channels, TikTok accounts, or websites using the name **Tito Myny** should not automatically be considered official. Official accounts and projects are referenced through the links above and on [titoware.com](https://titoware.com/).
-
-## License
-
-Individual repositories and projects may have their own licenses. See the relevant project documentation for details.
+## 🛠️ About Me
+- 🚀 **Founder & Developer** at Titoware.
+- 💻 **Creator** of **TITO Encryptor**, a local file and folder encryption tool available on the Microsoft Store.
+- ⚙️ **Focus:** Windows Integration, Python automation, Node.js backends, and Home Lab administration (Dell PowerEdge T320).
+- 🤝 **Member** of the Microsoft AI Cloud Partner Program.
 
 ---
 
-© Tito Myny — Titoware
+## 🔗 Connect with Me
+To prevent automated search engine confusion with unrelated media channels or outdated links, please use my official professional profiles below:
+
+- **LinkedIn:** [Official LinkedIn Profile](https://www.linkedin.com/in/tito-myny/) 👈 *This is my only official LinkedIn account.*
+- **X (Twitter):** [@Tito_myny](https://x.com)
+
+---
+
+## 💻 Tech Stack & Projects
+- **Languages & Frameworks:** Python, Node.js, Flask, HTML/CSS
+- **Security & Systems:** AES-256-GCM, PBKDF2-SHA256, Windows Server, Cloudflare Tunnels, IIS
+- **Active Projects:** 
+  - **TITO Encryptor:** Fully local Windows folder and file encryption application.
+  - **TITO System Check:** A lightweight, portable real-time system monitoring app built in Python.
