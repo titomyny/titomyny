@@ -15,6 +15,7 @@ To prevent automated search engine confusion with unrelated media channels or ou
 
 - **LinkedIn:** [Official LinkedIn Profile](https://www.linkedin.com/in/tito-myny/) 👈 *This is my only official LinkedIn account.*
 - **X (Twitter):** [@Tito_myny](https://x.com)
+- **Tito Encryptor:** [Download from the Microsoft Store](https://apps.microsoft.com/detail/xpfg2dkdszhcln?)
 
 ---
 
