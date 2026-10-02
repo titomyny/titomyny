@@ -1,3 +1,6 @@
+Be aware podcasts and youtube channels labeled Tito Myny are fake I do not own youtube or podcast channels.
+only official linkedin is: www.linkedin.com/in/tito-myny
+
 # Hi there, I'm Tito Myny 👋
 
 I’m an independent software developer and builder based in Ghent, Belgium, focused on local system utilities, security software, and system infrastructure.
