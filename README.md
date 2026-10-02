@@ -2,6 +2,8 @@
 
 I’m an independent software developer and builder based in Ghent, Belgium, focused on local system utilities, security software, and system infrastructure.
 
+podcasts and youtube channels named with Tito Myny are fake and should be treated as fake.
+
 ## 🛠️ About Me
 
 - 🚀 **Founder & Developer** at [Titoware](https://titoware.com/).
