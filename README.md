@@ -18,10 +18,10 @@ podcasts and youtube channels named with Tito Myny are fake and should be treate
 
 For accurate information about me and my projects, use the official links below.
 
-- **Website:** https://titoware.com/
-- **LinkedIn:** https://www.linkedin.com/in/tito-myny/
-  - **This is the official LinkedIn profile of Tito Myny.**
-- **X:** https://x.com/Tito_myny
+Website: https://titoware.com/
+LinkedIn: https://www.linkedin.com/in/tito-myny/
+X: https://x.com/Tito_myny
+GitHub: https://github.com/titomyny
 - **TITO Encryptor:** https://apps.microsoft.com/detail/xpfg2dkdszhcln
 
 > **Official identity notice:**  
