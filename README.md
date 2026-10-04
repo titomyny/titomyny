@@ -8,7 +8,7 @@ I enjoy turning ideas into real, usable software — from Windows applications t
 
 
 
-<img src="./dist/assets/name-snake.svg" alt="GitHub contribution snake">
+<img src="./dist/assets/tito-myny-snake.svg" alt="Tito Myny custom snake">
 
 
 ---
