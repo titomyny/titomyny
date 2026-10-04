@@ -30,8 +30,10 @@ I build independent projects under **TitoWare** — from Windows software and cy
 
 > **Learn → Build → Improve → Repeat.**
 
-I don't want TitoWare to be limited to one type of technology. The goal is to **build useful things, experiment with ideas and meet interesting people along the way.**
+- I don't want TitoWare to be limited to one type of technology. The goal is to **build useful things, experiment with ideas and meet interesting people along the way.**
 
+And also not to mention that our new **Strategic Project Advisor** **Sohaib Zerri** has joined our team. 
+He will be officially helping us with brainstomring new idea's, and turning them into real software for you guy's!
 ---
 
 ## 🚀 What I'm building
