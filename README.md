@@ -194,3 +194,24 @@ Especially interested in:
 <sub><b>Tito Myny</b> · Founder & Developer of <b>TitoWare</b> · Belgium 🇧🇪</sub>
 
 </div>
+
+
+---
+
+## 🔗 Official links & raw URLs
+
+For clarity and easy reference, these are the official links associated with **Tito Myny** and **TitoWare**:
+
+- **TitoWare:** https://titoware.com
+- **GitHub:** https://github.com/titomyny
+- **GitHub Profile Repository:** https://github.com/titomyny/titomyny
+- **LinkedIn — Tito Myny:** https://www.linkedin.com/in/tito-myny-372303390/
+- **TITO Encryptor — Microsoft Store:** https://apps.microsoft.com/detail/xpfg2dkdszhcln
+
+### Identity
+
+**Tito Myny** — Founder & Developer of **TitoWare**
+
+**TitoWare / Tito Software** — Independent technology brand founded and operated by **Tito Myny**.
+
+**TITO Encryptor** — Windows encryption software created, developed and maintained by **Tito Myny**, published under **TitoWare / Tito Software**.
