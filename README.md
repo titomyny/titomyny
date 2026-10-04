@@ -2,84 +2,119 @@
 
 # 👋 Hi, I'm **Tito Myny**
 
-### Founder of **TitoWare** · Developer · Builder · Technology Enthusiast
+### **Tito Myny — Founder & Developer of TitoWare**
+
+**Independent developer · Founder · Builder · Technology enthusiast · Belgium 🇧🇪**
 
 <a href="https://titoware.com">
-  <img src="https://img.shields.io/badge/TitoWare-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TitoWare">
+  <img src="https://img.shields.io/badge/TitoWare-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official TitoWare website">
 </a>
 <a href="https://www.linkedin.com/in/tito-myny-372303390/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Tito%20Myny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tito Myny on LinkedIn">
 </a>
 <a href="https://github.com/titomyny">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-titomyny-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tito Myny on GitHub">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Building+TitoWare+%F0%9F%9A%80;Creating+software+that+people+can+use+%F0%9F%92%BB;Exploring+security+%26+technology+%F0%9F%94%90;Learning+by+building+%F0%9F%A7%A0" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Building+TitoWare+%F0%9F%9A%80;Creating+software+%F0%9F%92%BB;Exploring+security+%26+technology+%F0%9F%94%90;Learning+by+building+%F0%9F%A7%A0" alt="Tito Myny typing animation">
 
 </div>
 
 ---
 
-## 🧑‍💻 Who am I?
+## 👤 Who is Tito Myny?
 
-I'm **Tito Myny**, a young developer and founder from Belgium 🇧🇪.
+**Tito Myny** is a Belgian independent developer and entrepreneur, and the **founder and developer behind TitoWare**.
 
-I build independent projects under **TitoWare** — from Windows software and cybersecurity projects to websites, experiments and new ideas.
+**TitoWare is Tito Myny's independent technology brand**, where he builds, develops, publishes and experiments with software, websites, security projects and other technology ideas.
 
-> **Learn → Build → Improve → Repeat.**
+### The identity behind this profile
 
-I don't want TitoWare to be limited to one type of technology. The goal is to **build useful things, experiment with ideas and meet interesting people along the way.**
+| | |
+|---|---|
+| **Name** | **Tito Myny** |
+| **Role** | **Founder & Developer of TitoWare** |
+| **Brand** | **TitoWare / Tito Software** |
+| **Location** | **Belgium 🇧🇪** |
+| **GitHub** | **github.com/titomyny** |
+| **Website** | **titoware.com** |
+| **Focus** | Software · Security · Technology · Web · Entrepreneurship |
+
+> **Tito Myny → TitoWare → TITO Encryptor**
+
+This GitHub profile belongs to **Tito Myny** and represents his work under **TitoWare**.
 
 ---
 
-## 🚀 What I'm building
+## 🚀 What is TitoWare?
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**TitoWare is an independent technology brand founded and operated by Tito Myny.**
 
-### 🔐 TITO Encryptor
+The goal is not to be limited to one type of technology. TitoWare is a place for **building useful products, experimenting with ideas, publishing projects, learning through development and connecting with other people who build interesting things.**
 
-A free Windows application for encrypting files and folders.
+Current areas include:
+
+- 💻 Software development
+- 🔐 Cybersecurity & privacy
+- 🌐 Websites & web technology
+- 🖥️ Windows development
+- 🧪 Technology experiments
+- 🚀 New product ideas
+- 🤝 Partnerships & collaborations
+
+---
+
+## 🔐 TITO Encryptor — Created by Tito Myny
+
+**TITO Encryptor** is a free Windows application created, developed and maintained by **Tito Myny** and published under **TitoWare / Tito Software**.
+
+It provides local file and folder encryption using modern cryptography.
 
 **Highlights**
-- 🔒 AES-256-GCM
-- 🔑 PBKDF2-SHA256
+- 🔒 AES-256-GCM authenticated encryption
+- 🔑 PBKDF2-SHA256 password-based key derivation
 - 📁 `.tito` encrypted containers
-- 💻 Local-only encryption
+- 💻 Local-only processing
 - ☁️ No cloud uploads
-- 👤 No account
+- 👤 No account required
 - 💳 No subscription
 
-**Stack:** Python · PySide6 · cryptography · PyInstaller
+**Technology:** Python · PySide6 · cryptography · PyInstaller
 
-</td>
-<td width="50%" valign="top">
-
-### 🏢 TitoWare
-
-My independent technology brand.
-
-**Exploring**
-- 💻 Software
-- 🔐 Security
-- 🌐 Web
-- 🧪 Experiments
-- 🖥️ Windows
-- 🚀 New ideas
-- 🤝 Partnerships
-
-**Current mindset:** build real projects, publish them, learn from them and make them better.
-
-</td>
-</tr>
-</table>
+**Published on:** Microsoft Store
 
 ---
 
-## 🛠️ My toolbox
+## 🏢 About Tito Myny & TitoWare
+
+**Tito Myny is the person behind TitoWare.**
+
+He uses TitoWare to publish independent projects and explore technology across multiple areas rather than limiting the brand to a single product or category.
+
+**Tito Myny creates the projects.  
+TitoWare is the brand under which they are developed and published.**
+
+> **Founder: Tito Myny**  
+> **Brand: TitoWare**  
+> **Software: TITO Encryptor**
+
+---
+
+## 📂 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| 🔐 **TITO Encryptor** | Windows file & folder encryption created by Tito Myny | 🟢 Active |
+| 🌐 **TitoWare Website** | Official website for TitoWare | 🟢 Active |
+| 🖥️ **Tito System Check** | Windows monitoring & diagnostics | 🚧 Building |
+| 🛡️ **TITO Server Guardian** | Server monitoring dashboard | 🚧 Building |
+| 🧪 **Future Projects** | New experiments and technology ideas | 🔮 Coming |
+
+---
+
+## 🛠️ Technology
 
 <div align="center">
 
@@ -94,28 +129,16 @@ My independent technology brand.
 
 ---
 
-## 📂 Projects
-
-| Project | What it does | Status |
-|---|---|---|
-| 🔐 **TITO Encryptor** | Windows file & folder encryption | 🟢 Active |
-| 🌐 **TitoWare Website** | Official TitoWare website | 🟢 Active |
-| 🖥️ **Tito System Check** | Windows monitoring & diagnostics | 🚧 Building |
-| 🛡️ **TITO Server Guardian** | Server monitoring dashboard | 🚧 Building |
-| 🧪 **Future Projects** | More experiments & ideas | 🔮 Coming |
-
----
-
 ## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=titomyny&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=titomyny&theme=transparent&hide_border=true" height="170" alt="GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api?username=titomyny&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="Tito Myny GitHub statistics">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=titomyny&theme=transparent&hide_border=true" height="170" alt="Tito Myny GitHub contribution streak">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titomyny&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titomyny&layout=compact&hide_border=true&theme=transparent" height="150" alt="Tito Myny top programming languages">
 
 </div>
 
@@ -146,7 +169,7 @@ Entrepreneurship    █████████████░░░░░
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Connect with Tito Myny
 
 I'm interested in meeting **developers, creators, entrepreneurs and people building interesting things**.
 
@@ -156,10 +179,10 @@ Especially interested in:
 
 <div align="center">
 
-### 🌐 Find me
+### 🌐 Official links
 
-[![TitoWare](https://img.shields.io/badge/TitoWare-111827?style=for-the-badge)](https://titoware.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tito%20Myny-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tito-myny-372303390/)
+[![TitoWare](https://img.shields.io/badge/Official%20TitoWare-111827?style=for-the-badge)](https://titoware.com)
+[![LinkedIn](https://img.shields.io/badge/Tito%20Myny%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tito-myny-372303390/)
 [![Microsoft Store](https://img.shields.io/badge/TITO%20Encryptor-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/xpfg2dkdszhcln)
 
 <br><br>
@@ -168,6 +191,6 @@ Especially interested in:
 
 <br>
 
-<sub>Built with curiosity. Improved with every version. — <b>Tito Myny</b></sub>
+<sub><b>Tito Myny</b> · Founder & Developer of <b>TitoWare</b> · Belgium 🇧🇪</sub>
 
 </div>
