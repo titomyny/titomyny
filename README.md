@@ -1,157 +1,173 @@
-# 👋 Hey, I'm Tito Myny
+<div align="center">
 
-> **Founder of TitoWare · Developer · Technology Enthusiast**
+# 👋 Hi, I'm **Tito Myny**
 
-I'm **Tito Myny**, a young developer and founder from Belgium 🇧🇪 building independent technology projects under **TitoWare**.
+### Founder of **TitoWare** · Developer · Builder · Technology Enthusiast
 
-I enjoy turning ideas into real, usable software — from Windows applications to web projects and experiments with new technologies.
+<a href="https://titoware.com">
+  <img src="https://img.shields.io/badge/TitoWare-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TitoWare">
+</a>
+<a href="https://www.linkedin.com/in/tito-myny-372303390/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/titomyny">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Building+TitoWare+%F0%9F%9A%80;Creating+software+that+people+can+use+%F0%9F%92%BB;Exploring+security+%26+technology+%F0%9F%94%90;Learning+by+building+%F0%9F%A7%A0" alt="Typing animation">
 
-<img src="./dist/assets/tito-myny-snake.svg" alt="Tito Myny custom snake">
-
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who am I?
 
-```text
-> name:       Tito Myny
-> role:       Founder / Developer
-> company:    TitoWare
-> location:   Belgium 🇧🇪
-> focus:      Software • Technology • Entrepreneurship
-> currently:  🚧 Building TitoWare
-> mindset:    Learn → Build → Improve
+I'm **Tito Myny**, a young developer and founder from Belgium 🇧🇪.
 
-I'm interested in:
+I build independent projects under **TitoWare** — from Windows software and cybersecurity projects to websites, experiments and new ideas.
 
-💻 Software development
-🔐 Cybersecurity & encryption
-🖥️ Windows development
-🌐 Web technologies
-🚀 Entrepreneurship
-🤝 Technology partnerships
-🧠 Learning new technologies
+> **Learn → Build → Improve → Repeat.**
 
-🏢 TitoWare
+I don't want TitoWare to be limited to one type of technology. The goal is to **build useful things, experiment with ideas and meet interesting people along the way.**
 
-TitoWare is my independent technology brand where I build, experiment with, and develop software and other technology projects.
+---
 
-The goal isn't to limit TitoWare to one type of software.
+## 🚀 What I'm building
 
-It's about building technology, experimenting with ideas, and creating useful projects.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-What I'm working on
-TitoWare
-├── 💻 Software
-├── 🔐 Security
-├── 🌐 Web
-├── 🧪 Experiments
-├── 🚀 New Projects
-└── 🤝 Collaborations
-
-🔐 Featured Project
-TITO Encryptor
+### 🔐 TITO Encryptor
 
 A free Windows application for encrypting files and folders.
 
-Features:
+**Highlights**
+- 🔒 AES-256-GCM
+- 🔑 PBKDF2-SHA256
+- 📁 `.tito` encrypted containers
+- 💻 Local-only encryption
+- ☁️ No cloud uploads
+- 👤 No account
+- 💳 No subscription
 
-🔒 AES-256-GCM authenticated encryption
-🔑 Password-based encryption
-🧂 PBKDF2-SHA256 key derivation
-📁 .tito encrypted containers
-💻 Local encryption
-☁️ No cloud uploads
-👤 No account required
-💳 No subscription
+**Stack:** Python · PySide6 · cryptography · PyInstaller
 
-Built with:
+</td>
+<td width="50%" valign="top">
 
-Python · PySide6 · cryptography · PyInstaller
+### 🏢 TitoWare
 
-TITO Encryptor is created, developed and maintained by Tito Myny and published under TitoWare.
+My independent technology brand.
 
-🛠️ Technologies
-Languages
+**Exploring**
+- 💻 Software
+- 🔐 Security
+- 🌐 Web
+- 🧪 Experiments
+- 🖥️ Windows
+- 🚀 New ideas
+- 🤝 Partnerships
 
+**Current mindset:** build real projects, publish them, learn from them and make them better.
 
+</td>
+</tr>
+</table>
 
+---
 
+## 🛠️ My toolbox
 
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
 
-Tools & Platforms
+---
 
+## 📂 Projects
 
+| Project | What it does | Status |
+|---|---|---|
+| 🔐 **TITO Encryptor** | Windows file & folder encryption | 🟢 Active |
+| 🌐 **TitoWare Website** | Official TitoWare website | 🟢 Active |
+| 🖥️ **Tito System Check** | Windows monitoring & diagnostics | 🚧 Building |
+| 🛡️ **TITO Server Guardian** | Server monitoring dashboard | 🚧 Building |
+| 🧪 **Future Projects** | More experiments & ideas | 🔮 Coming |
 
+---
 
+## 📊 GitHub activity
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=titomyny&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=titomyny&theme=transparent&hide_border=true" height="170" alt="GitHub streak">
 
+<br>
 
-Development
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titomyny&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages">
 
+</div>
 
-📂 Projects
-Project	Description	Status
-🔐 TITO Encryptor	Windows file & folder encryption	🟢 Active
-🌐 TitoWare Website	Official TitoWare website	🟢 Active
-🖥️ Tito System Check	Windows system monitoring & diagnostics	🚧 Development
-🛡️ TITO Server Guardian	Server monitoring dashboard	🚧 Development
-🧪 Future Projects	More technology projects	🔮 Coming
-📊 GitHub
+---
 
-🧠 Currently Learning
+## 🐍 Tito Myny Snake
 
-I'm continuously expanding my knowledge in:
+<div align="center">
 
-🔐 Cybersecurity
-🐍 Python development
-🌐 Web development
-🖥️ Windows software development
-☁️ Cloud & infrastructure
-🧩 Software architecture
-🚀 Entrepreneurship
-🤝 Collaboration
+<img src="./dist/assets/tito-myny-snake.svg" alt="Tito Myny custom contribution snake" width="900">
 
-I'm open to meeting developers, creators, entrepreneurs and people interested in technology.
+</div>
 
-If you have an interesting project, idea or collaboration opportunity, feel free to reach out.
+> 🎮 **Next version:** a real Snake-style animation where the snake actually eats the blocks that form **TITO MYNY**.
 
-I'm especially interested in:
+---
 
-Software · Technology · Cybersecurity · Startups · Partnerships · Open Source
+## 🧠 Currently learning
 
-🌐 Find Me Online
-🏢 TitoWare
+```text
+Cybersecurity       ███████████████░░░
+Python              ████████████████░░
+Web development     █████████████░░░░░
+Windows development ██████████████░░░░
+Cloud & infra       ███████████░░░░░░░
+Entrepreneurship    █████████████░░░░░
+```
 
-Official website:
-https://titoware.com
+---
 
-💼 LinkedIn
+## 🤝 Let's connect
 
-Tito Myny
-https://www.linkedin.com/in/tito-myny-372303390/
+I'm interested in meeting **developers, creators, entrepreneurs and people building interesting things**.
 
-🛍️ TITO Encryptor
+Especially interested in:
 
-Available through the Microsoft Store.
+**Software · Technology · Cybersecurity · Startups · Partnerships · Open Source**
 
-💬 A Little More About Me
+<div align="center">
 
-I believe you don't need to wait until you're older to start building things.
+### 🌐 Find me
 
-I'm focused on learning by doing — creating real projects, publishing them, improving them, and meeting people along the way.
+[![TitoWare](https://img.shields.io/badge/TitoWare-111827?style=for-the-badge)](https://titoware.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tito%20Myny-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tito-myny-372303390/)
+[![Microsoft Store](https://img.shields.io/badge/TITO%20Encryptor-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/xpfg2dkdszhcln)
 
-Build something. Learn from it. Make it better. Repeat.
+<br><br>
 
-⭐ Thanks for visiting!
+**⭐ If you like what I'm building, consider starring a project.**
 
-If you find one of my projects useful, consider giving it a ⭐.
+<br>
 
-— Tito Myny
+<sub>Built with curiosity. Improved with every version. — <b>Tito Myny</b></sub>
 
-Founder / Developer @ TitoWare
+</div>
