@@ -6,6 +6,11 @@ I'm **Tito Myny**, a young developer and founder from Belgium 🇧🇪 building 
 
 I enjoy turning ideas into real, usable software — from Windows applications to web projects and experiments with new technologies.
 
+
+
+<img src="./dist/assets/name-snake.svg" alt="GitHub contribution snake">
+
+
 ---
 
 ## 🚀 About Me
