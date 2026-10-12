@@ -4,7 +4,7 @@
 
 ### Founder & Developer at Titoware
 
-I build software, explore technology, and turn ideas into practical projects.
+Building software, systems and digital products — from desktop applications to web infrastructure.
 
 <a href="https://titoware.com">
   <img src="https://img.shields.io/badge/Titoware-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Titoware website">
@@ -18,7 +18,7 @@ I build software, explore technology, and turn ideas into practical projects.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Building+Titoware;Developing+Windows+applications;Exploring+software%2C+systems+%26+security;Learning+by+building+real+projects" alt="Building Titoware, developing software, exploring technology">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Building+Titoware;Software+%26+product+development;Systems%2C+monitoring+%26+infrastructure;Learning+by+building+real+projects" alt="Building Titoware and exploring technology">
 
 </div>
 
@@ -26,86 +26,60 @@ I build software, explore technology, and turn ideas into practical projects.
 
 ## About
 
-I'm **Tito Myny**, an independent software developer and aspiring entrepreneur from Belgium. I build projects under **Titoware**, an independent technology brand intended to grow beyond any single product or category.
+I'm **Tito Myny**, an independent software developer and aspiring entrepreneur from Belgium. Through **Titoware**, I work on software, digital products and practical technology projects.
 
-I learn by designing, building, testing and improving real projects. My interests include desktop software, web development, system monitoring, security, IT infrastructure and the business side of technology.
+I enjoy taking an idea from concept to implementation: designing interfaces, writing code, testing applications, troubleshooting systems and improving how things work. My interests span desktop and web development, system monitoring, IT infrastructure, security, automation and local AI experimentation.
 
-My GitHub is a home for the broader range of things I work on—not just one application. Some projects are published, while others are experiments or still in development.
+This profile brings together my wider work and learning journey. Individual projects may evolve, but the goal stays the same: build useful technology, keep learning and turn ideas into real things.
 
-## Projects
+## Areas of work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 TITO Encryptor
+### Software & applications
 
-A Windows application for encrypting files and folders, designed around local encryption and privacy.
+Building Windows desktop tools and user-focused software, from interface design and diagnostics to privacy-conscious utilities.
 
-- AES-256-GCM authenticated encryption
-- PBKDF2-SHA256 password-based key derivation
-- Custom `.tito` encrypted containers
-- No cloud upload required
-
-**Status:** Published on the Microsoft Store
-
-[View in Microsoft Store](https://apps.microsoft.com/detail/xpfg2dkdszhcln)
+**Current work**
+- **TITO System Check** — Windows system information, monitoring and diagnostics
+- **TITO Encryptor** — local file and folder encryption
+- Windows utilities, Python applications and automation experiments
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ TITO System Check
+### Systems & infrastructure
 
-A Windows application for system monitoring and diagnostics, with a dedicated desktop interface.
+Hands-on work with web services, server administration and the systems that keep applications running.
 
-- CPU, memory, disk and system information
-- Live monitoring and graphs
-- Light and dark appearance
-- Designed with Windows users in mind
-
-**Status:** In development
+**Exploring and building**
+- **TITO Server Guardian** — server and service monitoring dashboard
+- **Titoware website & web infrastructure** — website development, DNS, email routing and Cloudflare
+- Windows Server, networking, service administration and home-lab projects
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ TITO Server Guardian
+### Web & digital products
 
-A monitoring dashboard built to help observe services and infrastructure running on a server.
-
-**Focus:** Service monitoring, operational visibility and administration.
+Working on websites, user experiences, integrations and the practical details behind launching and maintaining digital projects.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Titoware Website & Infrastructure
+### Research & experimentation
 
-Website and backend work, including forms, data storage, domain and DNS configuration, email routing and Cloudflare integration.
-
-**Focus:** Building and maintaining practical web infrastructure.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Other experiments
-
-I also explore Windows utilities, Python applications, automation, local AI tools and other ideas as I learn.
-
-</td>
-<td width="50%" valign="top">
-
-### 🖧 Windows Server & Home Lab
-
-Hands-on learning with Windows Server, IIS, DNS, SMB, remote management, service monitoring and local infrastructure.
+Exploring local AI tools, new development workflows, system tools and ideas that may grow into future projects.
 
 </td>
 </tr>
 </table>
 
-## Technology & tools
+## Technology
 
 <div align="center">
 
@@ -119,29 +93,27 @@ Hands-on learning with Windows Server, IIS, DNS, SMB, remote management, service
 
 </div>
 
-Areas I keep learning about include application development, system administration, security, web infrastructure, automation and product development.
+I keep developing my skills through practical work across application development, web technologies, system administration, infrastructure, security and product design.
 
-## What I'm focused on
+## What I'm working towards
 
-- Building and improving software projects under **Titoware**
-- Developing Windows applications and system tools
-- Learning through hands-on software and infrastructure work
-- Exploring product ideas and how technology can solve real problems
-- Connecting with developers, founders and entrepreneurs to exchange ideas and explore collaborations
+- Growing **Titoware** into a broader technology brand
+- Developing and improving useful software and digital products
+- Building stronger foundations in systems, monitoring and infrastructure
+- Sharing projects, learning in public and connecting with the tech community
+- Exploring collaborations and learning from developers, founders and entrepreneurs
 
-## Let's connect
-
-I'm open to thoughtful conversations, learning from others and exploring potential collaborations around software, technology and entrepreneurship.
+## Find me online
 
 <div align="center">
 
 [![Titoware](https://img.shields.io/badge/Website-Titoware-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://titoware.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tito%20Myny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tito-myny-372303390/)
 [![X](https://img.shields.io/badge/X-@Tito_myny-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tito_myny)
-[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-TITO%20Encryptor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/xpfg2dkdszhcln)
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-My%20software-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/xpfg2dkdszhcln)
 
 <br>
 
-<sub>Built with curiosity. Improved through experimentation. — <strong>Tito Myny</strong></sub>
+<sub>Independent projects. Practical technology. Always learning. — <strong>Tito Myny</strong></sub>
 
 </div>
